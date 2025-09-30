@@ -24,7 +24,5 @@
 ## Setup
 
 1. Clone the repository.  
-2. Install dependencies:
-
-```bash
-pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+2. Install dependencies.
+3. ...
